@@ -1,0 +1,70 @@
+#nav-top{
+    padding: 0 8%;
+}
+.navbar-light .navbar-nav .nav-link {
+    padding-left: 25px;
+    font-size: 20px;
+    color: rgb(0 0 0) !important;
+    margin-left: 20px;
+}
+#searchbox{
+    border: 0px;
+    border-radius: 0;
+    position: relative;
+    left: 47px;
+    box-shadow: 5px 10px 11px 0px #00000021;
+}
+#search-btn{
+    position: relative;
+    z-index: 99;
+    background-color: #00bec9;
+    color: white;
+    border: 0;
+    border-radius: o;
+}
+@media only screen and (max-width: 1000px) {
+    #nav-top {
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+    margin-left: -20px;
+    }
+    #searchform{
+        margin-bottom: 30px;
+        margin-top: 20px;
+        position: relative;
+        left: -45px;
+    }
+}
+.carousel-item img{
+    height: 500px;
+}
+#img-arts{
+    height: 250px;
+    width: 400px;
+}
+#img-curious{
+    height: 250px;
+    width: 400px;
+}
+#img-funky{
+    height: 250px;
+    width: 400px;
+}
+#img-spain{
+    height: 250px;
+    width: 400px;
+}
+#img-thailand{
+    height: 250px;
+    width: 400px;
+}
+#img-handicraft{
+    height: 250px;
+    width: 400px;
+}
+#img-uzbekistan{
+    height: 250px;
+    width: 400px;
+}
